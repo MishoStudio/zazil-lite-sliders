@@ -1,4 +1,4 @@
-#Zazil Lite Sliders
+# Zazil Lite Sliders
 
 Author: Misho Studio  
 
