@@ -2,7 +2,7 @@
   "sliders": [
     {
       "name": "Home One",
-      "alias": "home_one_",
+      "alias": "home_one",
       "layout": "full-width",
       "responsive": "1",
       "startWidth": "1140",
